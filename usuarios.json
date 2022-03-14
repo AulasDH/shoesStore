@@ -1,0 +1,31 @@
+[
+  {
+    "descricao": "SCARPIN SALTO FINO BÁSICO",
+    "valor": 40,
+    "imagem": "shoes1.png"
+  },
+  {
+    "descricao": "BOTA CANO ALTO",
+    "valor": 150,
+    "imagem": "shoes2.png"
+  },
+  {
+    "descricao": "BOTA CANO ALTO",
+    "valor": 150,
+    "imagem": "shoes2.png"
+  },
+  {
+    "descricao": "Novo sapato",
+    "valor": "30",
+    "imagem": "shoes2.png"
+  },
+  {
+    "nome": "Gabriel Tsunoda",
+    "email": "gtsunoda@digitalhouse.com",
+    "telefone": "35984127102",
+    "departamentos": "rh",
+    "mensagem": "",
+    "curriculo": "",
+    "id": "0dbbdeec-b210-4552-bcb5-6f9e4603a75d"
+  }
+]
